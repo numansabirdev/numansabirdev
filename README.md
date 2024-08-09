@@ -61,7 +61,3 @@ I'm an ML/AI Engineer passionate about learning and applying the principles of M
 - **[Heart Failure Prediction](https://github.com/numansabirdev/Heart-Failure-Prediction-EDA)**: Predictive modeling using Exploratory Data Analysis (EDA).
 
 ---
-
-## 📈 GitHub Stats
-
-![Numan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NumanSabir&show_icons=true&theme=radical)
