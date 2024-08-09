@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffc008&height=310&section=header&text=Numan%20Sabir&fontSize=70&animation=fadeIn&fontAlignY=36&desc=ML/AI%20Engineer&descAlignY=55&descAlign=51)
+
 # Hi there, I'm Numan Sabir 👋
 
 I'm an ML/AI Engineer passionate about learning and applying the principles of Machine Learning and Artificial Intelligence. My work revolves around contributing to innovative projects that leverage data science to develop and deploy AI-driven solutions. I specialize in predictive modeling, natural language processing (NLP), and computer vision, and I'm always eager to explore new technologies and methodologies.
