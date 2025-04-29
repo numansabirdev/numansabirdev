@@ -8,25 +8,27 @@ I'm an ML/AI Engineer passionate about learning and applying the principles of M
 
 ## 🚀 About Me
 
-- 🌱 I’m currently focused on mastering NLP techniques and building advanced LLM applications.
-- 💼 I have hands-on experience with Python, PyTorch, and tools like LangChain, working on projects that involve both AI/ML and web development.
-- 💬 Ask me about AI-driven solutions, backend development, or anything related to ML/AI.
+- 🌱 I’m currently focused on mastering NLP techniques, building advanced LLM applications, and solving reasoning challenges with AI agents.
+- 💼 I have hands-on experience with Python, PyTorch, LangChain, and advanced RAG systems. I also work on AI-integrated web apps using FastAPI and front-end tools.
+- 💬 Ask me about AI-driven solutions, LLMs, backend systems, or AI agent-based automation.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thenumansabir) | [Email](mailto:numansabir.dev@gmail.com)
-- 📍 Based in Islamabad, Pakistan
+- 📍 Based in Lahore, Pakistan
 
 ---
 
 ## 🛠️ Skills & Tools
 
 **Machine Learning & AI:**
-- Python, PyTorch, OpenCV, NLTK, TF-IDF, FAISS
-- NLP, Computer Vision, RAG (Retrieval-Augmented Generation), LLMs, LangChain
+- Python, PyTorch, TensorFlow, OpenCV, NLTK, TF-IDF, FAISS
+- NLP, RAG (Retrieval-Augmented Generation), LLMs, LangChain, LlamaIndex
+- Fine-tuning LLMs, Prompt Engineering, Reflexion Agents, Reasoning with Multi-Agent Systems
+- Computer Vision: Body Measurement Applications
 
 **Web Development:**
 - FastAPI, Node.js, Express.js, Nest.js, React.js, Vue.js
 - HTML, CSS, JavaScript
 
-**Data Analysis:**
+**Data Analysis & Visualization:**
 - Pandas, NumPy, Matplotlib, SciPy
 
 **Databases:**
@@ -36,20 +38,38 @@ I'm an ML/AI Engineer passionate about learning and applying the principles of M
 
 ## 💻 Work Experience
 
-**ML/AI Engineer @ Alphabase**  
-*August 2024 - Present | Islamabad, Pakistan*  
+### **ML/AI Engineer @ NeuroOceans AI**  
+*Feb 2025 – Present | Lahore, Pakistan*  
+- Developed **AI/ML pipelines** for multiple domains including **computer vision**.  
+- Built **RAG chatbots** and **multi-agent systems** for automated **invoice parsing**.  
+- Integrated **third-party APIs** to improve workflows and user experiences.  
+- Developed systems for **body measurement** using **computer vision**.
 
-**ML/AI Intern @ Alphabase**  
-*April 2024 - July 2024 | Islamabad, Pakistan*  
-- Applied machine learning techniques for predictive modeling and classification tasks.
-- Developed a RAG chatbot application using LangChain, integrating Llama3 and FAISS for intelligent document retrieval and Q&A.
-- Conducted data analysis and feature engineering to improve model performance.
-- Integrated machine learning models with web applications using FastAPI.
+### **ML/AI Engineer @ Zortik Technologies**  
+*September 2024 – January 2025 | Kelowna, BC, Canada*  
+- **Fine-tuned LLMs** for **website content classification**.  
+- Built **custom datasets** and **evaluation pipelines** for code analysis tasks.  
+- Implemented **RAG** with LLMs to align analysis outputs with specific **coding guidelines**.  
+- Created **Reflexion Agents** for iterative **reasoning** in code review systems.  
+- Conducted deep research on **reasoning-based AI solutions**.
 
-**Backend Intern @ Alphabase**  
-*October 2023 - March 2024 | Islamabad, Pakistan*  
-- Developed and maintained APIs using Node.js, Express, and Nest.js.
-- Assisted in database design, optimization, and collaborated on front-end integrations.
+### **ML/AI Intern @ Alphabase**  
+*May 2024 – September 2024 | Islamabad, Pakistan*  
+- Developed **RAG chatbot applications** using **LangChain**, **Llama3**, and **FAISS**.  
+- Applied **machine learning techniques** for **predictive modeling** and **classification**.  
+- Used **Python**, **PyTorch**, and **OpenCV** to build and deploy AI solutions.  
+- Integrated **machine learning models** into web applications using **FastAPI**.  
+- Performed **exploratory data analysis** to enhance model performance and insights.
+
+### Backend Intern @ Alphabase  
+*Oct 2023 – Apr 2024 · 7 months | Islamabad, Pakistan*  
+- Developed and maintained APIs using **Node.js**, **Express**, and **Nest.js**.  
+- Implemented **CRUD operations** and integrated third-party services to enhance functionality.  
+- Conducted **unit and integration testing** of APIs using **Postman** to ensure reliability and performance.  
+- Collaborated closely with **front-end developers** for seamless integration.  
+- Actively participated in **code reviews** to maintain high coding standards.  
+- Assisted in **database design and optimization** for efficient data management.  
+
 
 ---
 
@@ -63,3 +83,30 @@ I'm an ML/AI Engineer passionate about learning and applying the principles of M
 - **[Heart Failure Prediction](https://github.com/numansabirdev/Heart-Failure-Prediction-EDA)**: Predictive modeling using Exploratory Data Analysis (EDA).
 
 ---
+
+## 🎓 **Education**
+
+- **Stanford University**  
+  *Machine Learning Specialization Course* · *(2024 – 2025)*  
+
+- **COMSATS University Islamabad**  
+  *BS (Software Engineering)* · *(2019 – 2023)*  
+
+- **Zero To Mastery Academy**  
+  *Complete Python Developer in 2022: Zero to Mastery* · *(September 2022 – February 2023)*  
+
+- **Superior College**  
+  *ICS (Intermediate of Computer Science)* · *(2017 – 2019)* 
+
+---
+
+## 📚 **Certifications & Courses**
+
+- **Machine Learning Specialization – deeplearning.ai**  
+  - Supervised Machine Learning: Regression and Classification  
+  - Advanced Learning Algorithms  
+  - Unsupervised Learning, Recommenders, Reinforcement  
+
+- **Practical Deep Learning for Coders – Jeremy Howard**  
+- **Complete Python Developer (2022) – Zero to Mastery**  
+- **C++ Tutorial for Complete Beginners**
